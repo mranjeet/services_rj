@@ -1,5 +1,5 @@
 name: services_rj
-description: "A new Flutter package project."
+description: A scalable Flutter utility package providing theme management, shared preferences, network layer, connectivity handling, logging, and app configuration with production-ready architecture.
 version: 1.0.0
 homepage:
 
